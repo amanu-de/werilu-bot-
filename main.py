@@ -1,4 +1,4 @@
-ጥቁሩ ግስላ, [2/11/2026 1:08 AM]
+
 import os
 import telebot
 from telebot import types
